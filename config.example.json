@@ -1,0 +1,14 @@
+{
+    "ports": {
+        "SSH": "2222",
+        "HTTP": "8080",
+        "FTP": "21",
+        "Telnet": "23",
+        "DNS": "5353",
+        "MySQL": "3306",
+        "SMTP": "2525"
+    },
+    "max_connections": 50,
+    "discord_webhook": "your-webhook",
+    "siem_endpoint": "your-siem-endpoint"
+}
